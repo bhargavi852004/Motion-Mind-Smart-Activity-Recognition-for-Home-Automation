@@ -27,6 +27,22 @@ ActionSense is an innovative project that combines the power of computer vision 
 - **Promote Interaction**: Create more interactive environments by connecting human actions to IoT devices.
 - **Demonstrate Innovation**: Showcase the integration of advanced computer vision with IoT technology in a practical, user-friendly application.
 
+### Output
+
+## Recognition of action by Model
+![image](https://github.com/user-attachments/assets/1d294376-aebc-4c7c-aca7-613ce047d063)
+
+![image](https://github.com/user-attachments/assets/0dca0e2b-4f01-4adc-bb7f-7748035cb968)
+
+![image](https://github.com/user-attachments/assets/be63823f-2e19-4287-971e-cc098736dd85)
+
+## IOT Connection to the Recognition Model 
+![image](https://github.com/user-attachments/assets/26bfa0cf-565d-455d-ab75-6c769af7203f)
+- Only Fan is working while Sleeping Action is sensed and Lights were off
+![image](https://github.com/user-attachments/assets/26b1b7ed-dfad-4f1a-b249-232ec455efc0)
+- Light is  off for better Vibe and Fan, AC, Tv are on While watching Tv
+- Note: Due to Inavalibility of Ac,Tv for project we replced them with few other lights for use
+
  ## Contributors
 
 - Nagulapally Bhargavi - https://github.com/bhargavi852004
