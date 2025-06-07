@@ -1,4 +1,4 @@
-## Motion Mind: Smart Activity Recognition for Home
+## Motion Mind: Smart Activity Recognition for Home Automation
 
 ### Project Overview
 Motion Mind is an innovative project that combines the power of computer vision with the connectivity of IoT to create a seamless human activity recognition system. Using OpenCV for accurate motion detection and pySerial for IoT integration, ActionSense transforms how environments respond to human actions, enhancing automation and interaction.
